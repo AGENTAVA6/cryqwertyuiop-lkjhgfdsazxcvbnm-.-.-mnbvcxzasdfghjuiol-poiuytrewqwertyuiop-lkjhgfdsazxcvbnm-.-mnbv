@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+    font-family: Georgia;
+}
+#copy_right_footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    background-color: black;
+    text-align: center;
+color: aqua;
+font-size: 25px;
+line-height: 45px;
+}
+canvas{
+    border: 10px solid grey;
+    box-shadow: 10px 10px 10px grey;
+    margin-top: 100px;
+}
